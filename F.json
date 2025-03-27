@@ -15,7 +15,7 @@
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
   "DFIntDataSenderRate": "38760",
   "DFIntFaceTrackingLod": "0",
-  "DFIntMaxActiveAnimationTracks": "96",
+  "DFIntMaxActiveAnimationTracks": "64",
   "DFIntMaxFrameBufferSize": "4",
   "DFIntMeshNLoDs": "1",
   "DFIntNumAssetsMaxToPreload": "2147483647",
