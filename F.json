@@ -41,6 +41,7 @@
   "FFlagDisablePostFx": "true",
   "FFlagEnableQuickGameLaunch": "true",
   "FFlagGraphicsTextureCopy": "true",
+  "FFlagHandleAltEnterFullscreenManually": "false",
   "FFlagUserShowGuiHideToggles": "true",
   "FFlagVoiceBetaBadge": "false",
   "FIntDebugForceMSAASamples": "0",
