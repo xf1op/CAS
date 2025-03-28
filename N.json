@@ -14,6 +14,7 @@
   "FFlagDebugDisableTelemetryV2Event": "true",
   "FFlagDebugDisableTelemetryV2Stat": "true",
   "FFlagDisableFeedbackSoothsayerCheck": "false",
+  "FFlagDebugGraphicsPreferD3D11": "true",
   "FFlagGraphicsTextureCopy": "true",
   "FFlagHandleAltEnterFullscreenManually": "false",
   "FFlagVoiceBetaBadge": "false",
