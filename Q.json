@@ -28,6 +28,7 @@
   "FFlagDebugDisableTelemetryV2Stat": "true",
   "FFlagDebugForceFutureIsBrightPhase3": "true",
   "FFlagDebugForceGenerateHSR": "true",
+  "FFlagDebugGraphicsPreferD3D11": "true",
   "FFlagDisableFeedbackSoothsayerCheck": "false",
   "FFlagEnableQuickGameLaunch": "true",
   "FFlagGraphicsTextureCopy": "true",
