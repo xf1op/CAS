@@ -31,6 +31,7 @@
   "FFlagDisableFeedbackSoothsayerCheck": "false",
   "FFlagEnableQuickGameLaunch": "true",
   "FFlagGraphicsTextureCopy": "true",
+  "FFlagHandleAltEnterFullscreenManually": "false",
   "FFlagRenderUnifiedLighting12": "true",
   "FFlagUserShowGuiHideToggles": "true",
   "FFlagVoiceBetaBadge": "false",
