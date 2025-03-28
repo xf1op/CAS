@@ -36,6 +36,7 @@
   "FFlagDebugDisableTelemetryV2Event": "true",
   "FFlagDebugDisableTelemetryV2Stat": "true",
   "FFlagDebugForceGenerateHSR": "true",
+  "FFlagDebugGraphicsPreferD3D11": "true",
   "FFlagDebugSSAOForce": "true",
   "FFlagDisableFeedbackSoothsayerCheck": "false",
   "FFlagDisablePostFx": "true",
