@@ -7,7 +7,7 @@
   "DFIntBandwidthManagerApplicationDefaultBps": "1024000",
   "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": "8",
   "DFIntCanHideGuiGroupId": "34295829",
-  "DFIntConnectionMTUSize": "900",
+  "DFIntConnectionMTUSize": "1200",
   "DFIntCSGLevelOfDetailSwitchingDistance": "2000",
   "DFIntDataSenderRate": "38760",
   "DFIntMaxFrameBufferSize": "4",
