@@ -6,6 +6,8 @@
   "DFIntVoiceChatRollOffMaxDistance": "120",
   "DFIntVoiceChatVolumeThousandths": "1500",
   "FFlagAdServiceEnabled": "false",
+  "DFIntBandwidthManagerApplicationDefaultBps": "1024000",
+  "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": "8",
   "FFlagDebugDisableTelemetryEphemeralCounter": "true",
   "FFlagDebugDisableTelemetryEphemeralStat": "true",
   "FFlagDebugDisableTelemetryEventIngest": "true",
