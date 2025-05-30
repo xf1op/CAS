@@ -126,7 +126,7 @@
   "FLogGraphics": "nil",
   "FLogWarning": "nil",
   "FLogNetwork": "7",
-  "FLogOutput": "nil",
+  "FLogOutput": "6",
   "FLogWebRTC": "nil",
   "FLogError": "nil",
   "FLogAudio": "nil"
