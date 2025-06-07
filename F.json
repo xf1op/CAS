@@ -53,6 +53,7 @@
   "DFIntS2PhysicsSenderRate": "1000",
   "DFIntMaxFrameBufferSize": "4",
   "DFIntRuntimeConcurrency": "-1",
+  "DFIntAssetPreloading": "2147483647",
   "DFIntRakNetLoopMs": "1",
 
   "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
