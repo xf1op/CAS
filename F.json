@@ -80,6 +80,7 @@
   "FIntFRMMaxGrassDistance": "0",
   "FIntFRMMinGrassDistance": "0",
   "FIntCLI20390_2": "0",
+  "FIntSSAOMipLevels": "0",
 
   "DFLogMegaReplicatorLogDisconnectCleanUpLog": "nil",
   "DFLogTrackerAnimationStreamSourceTrace": "nil",
