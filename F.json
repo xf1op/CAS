@@ -71,7 +71,7 @@
  "FIntRenderLocalLightUpdatesMin": "1",
  "FIntRenderMeshOptimizeVertexBuffer": "3",
  "FIntRenderShadowIntensity": "0",
- "FIntRenderShadowmapBias": "37",
+ "FIntRenderShadowmapBias": "36",
  "FIntRobloxGuiBlurIntensity": "0",
  "FIntSmoothMouseSpringFrequencyTenths": "0",
  "FIntSSAOMipLevels": "0",
