@@ -100,6 +100,9 @@
  "FFlagEnableTelemetryService1": "False",
  "FFlagEnableTelemetryServiceMemoryCPUInfo": "True",
  "FFlagEnableTelemetryServicePlaySessionInfo": "True",
+ "FFlagLuaVoiceChatAnalyticsUseCounterV2": "False",
+ "FFlagLuaVoiceChatAnalyticsUseEventsV2": "False",
+ "FFlagLuaVoiceChatAnalyticsUsePointsV2": "False",
  "FFlagSimStepPhysicsEnableTelemetry": "False",
  
  "DFLogMegaReplicatorLogDisconnectCleanUpLog": "nil",
