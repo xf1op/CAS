@@ -52,7 +52,7 @@
  "FFlagNetworkSchemaVersionServerBit": "True",
  "FFlagNewLightAttenuation": "True",
  "FFlagPreloadMinimalFonts": "False",
- "FFlagRenderUnifiedLighting12": "True",
+ "FFlagRenderUnifiedLighting13": "True",
  "FFlagToastNotificationsProtocolEnabled2": "False",
  "FFlagVoiceBetaBadge": "False",
  "FIntActivatedCountTimerMSKeyboard": "0",
