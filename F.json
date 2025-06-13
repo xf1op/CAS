@@ -145,7 +145,7 @@
  "FLogVIPTeleport": "nil",
  "FLogGraphics": "nil",
  "FLogWarning": "nil",
- "FLogNetwork": "nil",
+ "FLogNetwork": "6",
  "FLogOutput": "6",
  "FLogWebRTC": "nil",
  "FLogError": "nil",
