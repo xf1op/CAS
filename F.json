@@ -4,6 +4,8 @@
  "FFlagEnableLuaLogReporterMultipleLogs": "False",
  "CaptureCountersIntervalInMinutes": "0",
  "EnableAssetMetrics": "False",
+ "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+ "FStringAndroidVfsLowspecHwCondition": "{\"and\":[ {\"=\":[\"app_bitness()\",64]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]}",
 
  "DFIntLuaGcBoost": "2",
  "DFIntLuaGcMaxKb": "5000",
