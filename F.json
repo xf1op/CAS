@@ -1,6 +1,12 @@
 {
  "FStringDebugShowFlagState": "",
 
+ "FFlagPushFrameTimeToHarmony": true,
+ "FFlagUISUseLastFrameTimeInUpdateInputSignal": true,
+ "DFIntPerformanceControlFrameTimeMax": 1,
+ "FFlagHandleAltEnterFullscreenManually": false,
+ "DFFlagFastEndUpdateLoop": true,
+
  "FFlagEnableChromeShortcutBar2": false,
  "FFlagEnableInGameMenuSongbirdABTest": false,
  "FFlagEnableSongbirdInChrome2": false,
@@ -31,6 +37,7 @@
 
  "DFFlagAddKtxContentHash2": true,
  "DFFlagAddKtxTranscodedWidthHeight": true,
+ "DFFlagCleanOldCSGData": true,
  "DFFlagSimOptimizeSetSize": true,
  "DFIntAnimationLodFacsDistanceMax": 0,
  "DFIntAnimationLodFacsDistanceMin": 0,
