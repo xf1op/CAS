@@ -23,6 +23,13 @@
  "FIntLuauGcGoal": 95,
  "FIntLuauGcGoalCore": 125,
 
+ "FFlagLargeReplicatorEnabled8": true,
+ "FFlagLargeReplicatorWrite5": true,
+ "FFlagLargeReplicatorRead5": true,
+ "FFlagLargeReplicatorSerializeRead3": true,
+ "FFlagLargeReplicatorSerializeWrite4": true,
+ "FFlagGlobalSettingsEngineModule3": false,
+
  "DFIntCliMaxPayloadRcv": 2147483647,
  "DFIntCliMaxPayloadSnd": 2147483647,
  "DFIntCliTcMaxPayloadRcv": 2147483647,
@@ -120,7 +127,7 @@
  "FFlagNetworkSchemaVersionServerBit": true,
  "FFlagNewLightAttenuation": true,
  "FFlagPreloadMinimalFonts": false,
- "FFlagRenderUnifiedLighting14": true,
+ "FFlagRenderUnifiedLighting15": true,
  "FFlagSimCSG4EnableMesh": true,
  "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
  "FFlagToastNotificationsProtocolEnabled2": false,
