@@ -13,10 +13,10 @@
 
  "BacktraceLogSize": 0,
  "CaptureCountersIntervalInMinutes": 0,
- "FStringAndroidVfsLowspecHwCondition": "{\"and\":[ {\"=\":[\"app_bitness()\",64]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]}",
+ "FStringAndroidVfsLowspecHwCondition": "{\"and\":[ {\"=\":[\"app_bitness()\",96]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]}",
 
  "DFIntLuaGcBoost": 2,
- "DFIntLuaGcMaxKb": 1000,
+ "DFIntLuaGcMaxKb": 5000,
  "DFIntLuauGcStepMul": 100,
  "DFIntLuauGcStepSizeKb": 5,
  "FIntLuaGcParallelMinMultiTasks": -3,
