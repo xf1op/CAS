@@ -13,6 +13,10 @@
   "FIntSmoothMouseSpringFrequencyTenths": 0,
   "FIntVideoAdsMaxNumberOfVideosPlaying": 0,
 
+  "DFFlagRobloxTelemetryAddDeviceRAM": false,
+  "FFlagPerformanceControlEnablePortTextureManagerTrimMemory": true,
+  "DFStringPerformanceControlDeviceMemoryBufferConfig": "{\"memory_bucket\":[{\"maxsize\":0,\"reservePct\":0.0,\"reserveMB\":0},{\"maxsize\":0,\"reservePct\":0.0,\"reserveMB\":0},{\"maxsize\":0,\"reservePct\":0.0,\"reserveMB\":0}]}",
+
   "FFlagHandleAltEnterFullscreenManually": false,
 
   "FStringInstancesToPoolByName": "Motor6D:800;Decal:800;Frame:800;Animation:800;Vector3Value:800;SpecialMesh:800;StringValue:800;ImageLabel:800;UIStroke:800;TextLabel:800;",
@@ -105,8 +109,8 @@
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": 200,
   "DFIntMaxActiveAnimationTracks": 64,
   "DFIntMeshNLoDs": 1,
-  "DFIntRuntimeConcurrency": -1,
-  "DFIntS2PhysicsSenderRate": 150,
+  "DFIntDataSenderRate": 1000,
+  "DFIntS2PhysicsSenderRate": 1000,
   "DFIntSignalRHeartbeatIntervalSeconds": 1,
   "DFIntTerrainLodActive": 0,
   "FFlagAdServiceEnabled": false,
@@ -116,6 +120,7 @@
   "FFlagDisablePostFx": true,
   "FFlagFastGPULightCulling3": true,
   "FFlagLuaAppDisableVideo": true,
+  "FFlagRenderCBRefactor2": true,
   "FFlagRenderUnifiedLighting16": true,
   "FFlagSimCSG4EnableMesh": true,
   "FFlagVoiceBetaBadge": false,
@@ -141,7 +146,6 @@
   "FStringGetPlayerImageDefaultTimeout": 1,
 
   "DFFlagDebugDisableTelemetryAfterTest": true,
-  "DFFlagRobloxTelemetryAddDeviceRAM": false,
   "DFIntCrashUploadToBacktracePercentage": 0,
   "DFStringAltHttpPointsReporterUrl": "null",
   "DFStringHttpPointsReporterUrl": "null",
