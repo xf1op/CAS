@@ -70,7 +70,12 @@
   "FStringTencentAuthPath": "a",
   "FStringXboxExperienceGuidelinesUrl": "a",
 
-  "DFFlagPerformanceControlEnableMemoryProbing3": true,
+  "DFFlagPerformanceControlEnableMemoryProbing3": false,
+  "DFFlagRobloxTelemetryAddDeviceRAM": false,
+  "FFlagPerformanceControlEnablePortTextureManagerTrimMemory": true,
+  "FIntMininumRequiredMemoryInGB": 0,
+  "FIntMininumRequiredMemoryInMB": 0,
+  
   "DFFlagTaskSchedulerAvoidSleep": true,
   
   "FFlagSyncWebViewCookieToEngine2": false,
