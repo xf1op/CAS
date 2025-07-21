@@ -118,7 +118,6 @@
   "FFlagEnableInGameMenuSongbirdABTest": false,
   "FFlagEnableSongbirdInChrome2": false,
   "FFlagResetCacheOnLeaveGame": true,
-  "FFlagToastNotificationsProtocolEnabled2": false,
   "FFlagVoiceBetaBadge": false,
   "FIntGameGridFlexFeedItemTileNumPerFeed": 0,
   "FIntSmoothMouseSpringFrequencyTenths": 100,
