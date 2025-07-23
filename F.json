@@ -1,10 +1,6 @@
 {
   "FStringDebugShowFlagState": "",
 
-  "FFlagEnablePartyVoiceOnlyForEligibleUsers": false,
-  "FFlagEnablePartyVoiceOnlyForUnfilteredThreads": false,
-  "FFlagPartyVoiceBypassCheck": false, 
-
   "DFIntCanHideGuiGroupId": 34295829,
   "FFlagUserShowGuiHideToggles": true,
 
@@ -63,6 +59,7 @@
   "FFlagEnableChromeAnalytics": false,
   "FFlagEnableCommunityLinksClickLogging": false,
   "FFlagEnableCounterLoggingForAPICalls": false,
+  "FFlagEnableFacialAgeEstimationService3": false,
   "FFlagEnableLoggingForGameDetailLinks": false,
   "FFlagEnableLuaVoiceChatAnalyticsV2": false,
   "FFlagEnableReactLoggingProfiler2": false,
@@ -143,6 +140,7 @@
   "DFIntRakNetMtuValue2InBytes": 1396,
   "DFIntRakNetMtuValue3InBytes": 1396,
   "DFIntRakNetNakResendDelayMsMax": 1,
+  "DFIntRakNetResendRttMultiple": 1,
   "DFIntRakNetSelectTimeoutMs": 5,
   "DFIntS2PhysicsSenderRate": 38760,
   "FFlagGlobalSettingsEngineModule3": false,
@@ -181,7 +179,7 @@
   "FFlagLuaAppGamesPagePreloadingDisabled": true,
   "FFlagPreloadMinimalFonts": false,
   
-  "FFlagRenderInitShadowmaps": false,
+  "DFFlagDebugForceAnisoOff": true,
   "DFFlagSimOptimizeSetSize": true,
   "DFFlagTextureQualityOverrideEnabled": true,
   "DFFlagVideoCaptureServiceEnabled": false,
@@ -216,6 +214,7 @@
   "FFlagNewLightAttenuation": true,
   "FFlagRenderCBRefactor2": true,
   "FFlagRenderDebugCheckThreading2": true,
+  "FFlagRenderInitShadowmaps": false,
   "FFlagRenderUnifiedLighting": true,
   "FFlagRenderUnifiedLighting16": true,
   "FIntActivatedCountTimerMSKeyboard": 0,
@@ -267,6 +266,7 @@
   "FLogPerformanceControlIXP": 0,
   "FLogAudioFocusManager": 0,
   "FLogAudioFocusService": 0,
+  "FLogAvatarJoinMetrics": 6,
   "FLogSurfaceController": 0,
   "FLogAppMemUsageStatus": 0,
   "FLogUGCGameController": 0,
@@ -279,6 +279,7 @@
   "FLogClientRunInfo": 0,
   "FLogVoiceChatLogs": 0,
   "FLogWindowsLuaApp": 0,
+  "FLogGameJoinUtil": 0,
   "FLogLogWin32BTId": 0,
   "FLogVIPTeleport": 0,
   "FLogGraphics": 0,
