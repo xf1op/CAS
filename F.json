@@ -1,5 +1,5 @@
 {
-  "FStringDebugShowFlagState": "DFIntDataSenderRate,DFIntDataSenderMaxBandwidthBpsMultiplier",
+  "FStringDebugShowFlagState": "",
 
   "DFIntCanHideGuiGroupId": 34295829,
   "FFlagUserShowGuiHideToggles": true,
