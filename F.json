@@ -151,8 +151,8 @@
   "FIntSmoothMouseSpringFrequencyTenths": 100,
   "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": 0,
 
-  "DFIntBandwidthManagerApplicationDefaultBps": 1024000,
-  "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": 6,
+  "DFIntBandwidthManagerApplicationDefaultBps": 4096000,
+  "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": 8,
   "DFIntClientPacketExcessMicroseconds": 1,
   "DFIntClientPacketMaxDelayMs": 1,
   "DFIntClientPacketMaxFrameMicroseconds": 1047483647,
