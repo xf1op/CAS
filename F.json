@@ -11,9 +11,9 @@
 
   "DFIntInterpolationNumParallelTasks": "PCOUNT3",
   "DFIntMegaReplicatorNumParallelTasks": "PCOUNT2",
-  "DFIntNetworkClusterPacketCacheNumParallelTasks": "PCOUNT",
+  "DFIntNetworkClusterPacketCacheNumParallelTasks": "PCOUNT2",
   "DFIntPhysicsReceiveNumParallelTasks": "PCOUNT",
-  "DFIntReplicationDataCacheNumParallelTasks": "PCOUNT",
+  "DFIntReplicationDataCacheNumParallelTasks": "PCOUNT2",
   "DFIntRuntimeConcurrency": "PCOUNT",
   "FIntLuaGcParallelMinMultiTasks": "PCOUNT2",
   "FIntSimWorldTaskQueueParallelTasks": "PCOUNT3",
