@@ -251,7 +251,6 @@
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagLuaAppDisableVideo": true,
   "FFlagLuaAppSponsoredGridTiles": false,
-  "FFlagMovePrerenderV2": false,
   "FFlagNewLightAttenuation": true,
   "FFlagRenderCBRefactor2": true,
   "FFlagRenderDebugCheckThreading2": true,
