@@ -14,11 +14,11 @@
   "DFIntNetworkClusterPacketCacheNumParallelTasks": "PCOUNT3",
   "DFIntPhysicsReceiveNumParallelTasks": "PCOUNT3",
   "DFIntReplicationDataCacheNumParallelTasks": "PCOUNT3",
-  "DFIntRuntimeConcurrency": "PCOUNT3",
+  "DFIntRuntimeConcurrency": "PCOUNT",
   "FIntLuaGcParallelMinMultiTasks": "PCOUNT2",
   "FIntSimWorldTaskQueueParallelTasks": "PCOUNT3",
   "FIntSmoothClusterTaskQueueMaxParallelTasks": "PCOUNT3",
-  "FIntTaskSchedulerAutoThreadLimit": "PCOUNT3",
+  "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
 
   "DFFlagAnalyticsServiceEnabled": false,
   "DFFlagCollectAudioPluginTelemetry": false,
