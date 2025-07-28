@@ -9,7 +9,7 @@
   "DFIntLuauGcStepSizeKb": 5,
   "FIntLuauGcGoal": 95,
 
-  "DFIntInterpolationNumParallelTasks": "PCOUNT3",
+  "DFIntInterpolationNumParallelTasks": "PCOUNT",
   "DFIntMegaReplicatorNumParallelTasks": "PCOUNT2",
   "DFIntNetworkClusterPacketCacheNumParallelTasks": "PCOUNT2",
   "DFIntPhysicsReceiveNumParallelTasks": "PCOUNT2",
