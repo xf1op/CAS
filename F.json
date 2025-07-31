@@ -2,6 +2,7 @@
   "FStringDebugShowFlagState": "",
 
   "DFIntTaskSchedulerTargetFps": "HZ",
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
 
   "DFIntCanHideGuiGroupId": 34295829,
   "FFlagUserShowGuiHideToggles": true,
