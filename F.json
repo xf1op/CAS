@@ -2,22 +2,6 @@
   "FStringDebugShowFlagState": "",
 
   "DFIntTaskSchedulerTargetFps": "HZ",
-  "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
-
-  "DFIntCanHideGuiGroupId": 34295829,
-  "FFlagUserShowGuiHideToggles": true,
-
-  "DFIntHttpCacheCleanDownToTotalSpaceMiB": 1536,
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": 2048,
-  "DFIntHttpCacheCleanMinFilesRequired": 12500,
-  "DFIntHttpCacheCleanMaxFilesToKeep": 10000,
-
-  "DFIntLuaGcBoost": 2,
-  "DFIntLuaGcMaxKb": 5000,
-  "DFIntLuauGcStepMul": 100,
-  "DFIntLuauGcStepSizeKb": 5,
-  "FIntLuauGcGoal": 95,
-  
   "DFIntInterpolationNumParallelTasks": "PCOUNT",
   "DFIntMegaReplicatorNumParallelTasks": "PCOUNT2",
   "DFIntNetworkClusterPacketCacheNumParallelTasks": "PCOUNT2",
@@ -32,6 +16,20 @@
   "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "PCOUNT",
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
   "FIntTaskSchedulerThreadMin": "PCOUNT",
+
+  "DFIntCanHideGuiGroupId": 34295829,
+  "FFlagUserShowGuiHideToggles": true,
+
+  "DFIntHttpCacheCleanDownToTotalSpaceMiB": 1536,
+  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": 2048,
+  "DFIntHttpCacheCleanMinFilesRequired": 12500,
+  "DFIntHttpCacheCleanMaxFilesToKeep": 10000,
+
+  "DFIntLuaGcBoost": 2,
+  "DFIntLuaGcMaxKb": 5000,
+  "DFIntLuauGcStepMul": 100,
+  "DFIntLuauGcStepSizeKb": 5,
+  "FIntLuauGcGoal": 95,
 
   "DFFlagFixStyleBaseNullPointerCrash": true,
   "DFFlagOptimizeNoCollisionPrimitiveInMidphaseCrash": true,
@@ -181,6 +179,7 @@
   "FFlagEnableInGameMenuSongbirdABTest": false,
   "FFlagEnableSongbirdInChrome2": false,
   "FFlagResetCacheOnLeaveGame": true,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
   "FFlagVoiceBetaBadge": false,
   "FIntFullscreenTitleBarTriggerDelayMillis": 1000,
   "FIntGameGridFlexFeedItemTileNumPerFeed": 0,
@@ -328,6 +327,10 @@
   "FIntVertexSmoothingGroupTolerance": 0,
 
   "FStringGetPlayerImageDefaultTimeout": "0.01",
+
+  "FIntNewDevConsoleMaxGraphCount": 0,
+  "FIntNewDevConsoleMaxHttpCount": 0,
+  "FIntNewDevConsoleMaxLogCount": 0,
 
   "DFLogBootcampCLI146527Log": 0,
   "DFLogBootcampCLI149079Log": 0,
