@@ -195,7 +195,6 @@
   "DFIntClientPacketMinMicroseconds": 5000,
   "DFIntClientRecvFromRaknet": 255,
   "DFIntConnectionMTUSize": 1396,
-  "DFFlagRakNetUseSlidingWindow4": true,
   "DFIntDataSenderMaxBandwidthBps": 2147483647,
   "DFIntDataSenderMaxJoinBandwidthBps": 2147483647,
   "DFIntDataSenderMaxJoinBandwidthBpsMultiplier": 1,
