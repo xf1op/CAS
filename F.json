@@ -1,24 +1,26 @@
 {
   "FStringDebugShowFlagState": "",
 
+  "DFIntTaskSchedulerTargetFps": "HZ",
+
   "DFIntCanHideGuiGroupId": 34295829,
   "FFlagUserShowGuiHideToggles": true,
 
-  "DFIntHttpCacheCleanDownToTotalSpaceMiB": "2048",
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "2560",
-  "DFIntHttpCacheCleanMinFilesRequired": "17500",
-  "DFIntHttpCacheCleanMaxFilesToKeep": "12500",
+  "DFIntHttpCacheCleanDownToTotalSpaceMiB": 1536,
+  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": 2048,
+  "DFIntHttpCacheCleanMinFilesRequired": 12500,
+  "DFIntHttpCacheCleanMaxFilesToKeep": 10000,
 
   "DFIntLuaGcBoost": 2,
   "DFIntLuaGcMaxKb": 5000,
   "DFIntLuauGcStepMul": 100,
   "DFIntLuauGcStepSizeKb": 5,
   "FIntLuauGcGoal": 95,
-
+  
   "DFIntInterpolationNumParallelTasks": "PCOUNT",
   "DFIntMegaReplicatorNumParallelTasks": "PCOUNT2",
   "DFIntNetworkClusterPacketCacheNumParallelTasks": "PCOUNT2",
-  "DFIntPhysicsReceiveNumParallelTasks": "PCOUNT2",
+  "DFIntPhysicsReceiveNumParallelTasks": "PCOUNT",
   "DFIntReplicationDataCacheNumParallelTasks": "PCOUNT2",
   "DFIntRuntimeConcurrency": "PCOUNT",
   "DFIntTaskSchedulerJobInGameThreads": "PCOUNT",
@@ -317,7 +319,7 @@
   "FIntUnifiedLightingBlendZone": 0,
   "FIntVertexSmoothingGroupTolerance": 0,
 
-  "FStringGetPlayerImageDefaultTimeout": "1",
+  "FStringGetPlayerImageDefaultTimeout": "0.1",
 
   "DFLogBootcampCLI146527Log": 0,
   "DFLogBootcampCLI149079Log": 0,
