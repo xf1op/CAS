@@ -263,6 +263,8 @@
   "FFlagLuaAppGamesPagePreloadingDisabled": true,
   "FFlagPreloadMinimalFonts": false,
   
+  "FStringAndroidVfsLowspecHwCondition": "{\u0022and\u0022:[ {\u0022=\u0022:[\u0022app_bitness()\u0022,64]}, {\u0022not\u0022:[ {\u0022is_any_of\u0022:[\u0022manufacturer()\u0022,\u0022samsung\u0022,\u0022amazon\u0022,\u0022lge\u0022,\u0022lg\u0022,\u0022lg electronics\u0022,\u0022vivo\u0022]} ]} ]}",
+
   "DFFlagDebugForceAnisoOff": true,
   "DFFlagDebugSkipMeshVoxelizer": true,
   "DFFlagSimOptimizeSetSize": true,
