@@ -164,6 +164,10 @@
   "FFlagLuaAppGamesPagePreloadingDisabled": true,
   "FFlagPreloadMinimalFonts": false,
   
+  "FIntNewDevConsoleMaxGraphCount": 0,
+  "FIntNewDevConsoleMaxHtt11": 0,
+  "FIntNewDevConsoleMaxLogCount": 0,
+  
   "FFlagAddDMLogging": false,
   "FFlagAdServiceEnabled": false
 }
