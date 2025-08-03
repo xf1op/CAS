@@ -63,7 +63,7 @@
   "DFIntLuaGcMaxKb": 4000,
   "DFIntLuauGcStepMul": 100,
   "DFIntLuauGcStepSizeKb": 5,
-  "FIntLuaGcParallelMinMultiTasks": -3,
+  "FIntLuaGcParallelMinMultiTasks": "-PCOUNT2",
   "FIntLuauGcGoal": 95,
 
   "DFIntMemCacheMaxCapacityMB": 64,
