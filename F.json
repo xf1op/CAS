@@ -11,7 +11,7 @@
 
   "DFIntVoiceChatRollOffMaxDistance": 120,
   "DFIntVoiceChatVolumeThousandths": 1250,
-
+  
   "DFFlagDebugForceAnisoOff": true,
   "DFFlagRenderBloomMakeResolutionIndependent": false,
   "DFFlagRenderBlurMakeResolutionIndependent": false,
@@ -23,6 +23,7 @@
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": 80,
   "DFIntCSGv2LodMinTriangleCount": 0,
   "DFIntCSGv2LodsToGenerate": 0,
+  "DFIntMaxActiveAnimationTracks": 64,
   "FFlagAvoidUnnecessaryQuadtreeLock": true,
   "FFlagDebugCheckRenderThreading": true,
   "FFlagDebugForceFSMCPULightCulling": true,
@@ -31,7 +32,6 @@
   "FFlagDebugGraphicsDisableOpenGL": true,
   "FFlagDebugGraphicsDisableVulkan": false,
   "FFlagDebugGraphicsDisableVulkan11": false,
-  "FFlagRenderUnifiedLighting16": false,
   "FFlagDebugGraphicsPreferVulkan": true,
   "FFlagDebugRenderingSetDeterministic": true,
   "FFlagDisablePostFx": true,
@@ -39,10 +39,14 @@
   "FFlagFineGrainCull": true,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagHighlightOutlinesOnMobile": true,
+  "FFlagRenderCBRefactor2": true,
   "FFlagRenderEnableGlobalInstancingVulkan": true,
+  "FFlagRenderUnifiedLighting16": false,
+  "FFlagUserRaycastPerformanceImprovements": true,
   "FIntBloomFrmCutoff": 22,
   "FIntDebugForceMSAASamples": 0,
   "FIntDebugFRMOptionalMSAALevelOverride": 0,
+  "FIntDirectionalAttenuationMaxPoints": 200,
   "FIntFRMMaxGrassDistance": 0,
   "FIntFRMMinGrassDistance": 0,
   "FIntMaquettesHighMSAALevel": 0,
@@ -89,6 +93,7 @@
 
   "CaptureCountersIntervalInMinutes": 0,
   "FFlagAlwaysShowVRToggleV3": false,
+  "FFlagClearCachedChannelOnLaunch": true,
   "FFlagDisableFeedbackSoothsayerCheck": false,
   "FFlagEnableSongbirdInChrome2": false,
   "FFlagResetCacheOnLeaveGame": true,
@@ -146,6 +151,8 @@
   "DFIntPerformanceControlFrameTimeMax": 1,
   "DFIntPerformanceControlFrameTimeMaxUtility": -1,
   "FIntActivatedCountTimerMSKeyboard": 0,
+  "FFlagLuaAppLegacyInputSettingRefactor": true,
+  "FFlagUserCameraControlLastInputTypeUpdate": false,
   "FIntActivatedCountTimerMSMouse": 0,
   "FIntCLI20390_2": 1,
 
@@ -178,5 +185,7 @@
   "FFlagAdServiceEnabled": false,
   "FFlagEnableTelemetryProtocol": false,
   "FFlagEnableTelemetryService1": false,
-  "FLogRobloxTelemetry": "Error,0"
+  "FLogRobloxTelemetry": "Error,0",
+  "FLogAdService": 0,
+  "FLogNetwork": 7
 }
