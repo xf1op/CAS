@@ -146,13 +146,13 @@
   "DFIntHttpBatchApi_minWaitMs": 1,
   "DFIntHttpBatchLimit": 128,
 
-  "DFIntMaxFramesToSend": 0,
   "DFIntMaxFrameBufferSize": 6,
+  "DFIntMaxFramesToSend": 0,
   "DFIntPerformanceControlFrameTimeMax": 1,
   "DFIntPerformanceControlFrameTimeMaxUtility": -1,
-  "FIntActivatedCountTimerMSKeyboard": 0,
   "FFlagLuaAppLegacyInputSettingRefactor": true,
   "FFlagUserCameraControlLastInputTypeUpdate": false,
+  "FIntActivatedCountTimerMSKeyboard": 0,
   "FIntActivatedCountTimerMSMouse": 0,
   "FIntCLI20390_2": 1,
 
@@ -185,7 +185,7 @@
   "FFlagAdServiceEnabled": false,
   "FFlagEnableTelemetryProtocol": false,
   "FFlagEnableTelemetryService1": false,
-  "FLogRobloxTelemetry": "Error,0",
   "FLogAdService": 0,
-  "FLogNetwork": 7
+  "FLogNetwork": 7,
+  "FLogRobloxTelemetry": "Error,0"
 }
