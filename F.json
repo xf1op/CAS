@@ -5,6 +5,13 @@
   "DFIntRuntimeConcurrency": "PCOUNT",
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
 
+  "DFIntLuaGcBoost": 2,
+  "DFIntLuaGcMaxKb": 4000,
+  "DFIntLuauGcStepMul": 100,
+  "DFIntLuauGcStepSizeKb": 5,
+  "FIntLuaGcParallelMinMultiTasks": "-PCOUNT2",
+  "FIntLuauGcGoal": 95,
+
   "DFIntS2PhysicsSenderRate": 256,
   "FFlagHumanoidStateUseRuntimeSyncPrims": true,
   "FFlagKeyframeSequenceUseRuntimeSyncPrims": true,
@@ -60,6 +67,13 @@
   "FIntTerrainArraySliceSize": 64,
   "FIntUnifiedLightingBlendZone": 0,
 
+  "DFIntGraphicsOptimizationModeFRMFrameRateTarget": 2147483647,
+  "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": 1,
+  "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": 0,
+  "FStringIXPGraphicsOptimizationModeBalancedBias": "performanceBias",
+  "FStringIXPGraphicsOptimizationModePerformanceBias": "performanceBias",
+  "FStringIXPGraphicsOptimizationModeQualityBias": "performanceBias",
+
   "DFIntCanHideGuiGroupId": 34295829,
   "FFlagUserShowGuiHideToggles": true,
 
@@ -67,13 +81,6 @@
   "DFIntHttpCacheCleanMaxFilesToKeep": 10000,
   "DFIntHttpCacheCleanMinFilesRequired": 12500,
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": 2048,
-
-  "DFIntLuaGcBoost": 2,
-  "DFIntLuaGcMaxKb": 4000,
-  "DFIntLuauGcStepMul": 100,
-  "DFIntLuauGcStepSizeKb": 5,
-  "FIntLuaGcParallelMinMultiTasks": "-PCOUNT2",
-  "FIntLuauGcGoal": 95,
 
   "DFIntMemCacheMaxCapacityMB": 64,
   "DFIntMemoryUtilityCurveBaseHundrethsPercent": 0,
@@ -173,18 +180,18 @@
   "FFlagPreloadMinimalFonts": false,
   
   "FIntNewDevConsoleMaxGraphCount": 0,
-  "FIntNewDevConsoleMaxHtt11": 0,
+  "FIntNewDevConsoleMaxHttpCount": 0,
   "FIntNewDevConsoleMaxLogCount": 0,
   
   "DFFlagDebugDisableTelemetryAfterTest": true,
   "DFIntMaxLogHistory": 0,
-  "DFIntPercentileTelemetryHundredPercent": 0,
   "DFStringHttpPointsReporterUrl": "0.0.0.0",
   "DFStringTelemetryV2Url": "0.0.0.0",
   "FFlagAddDMLogging": false,
   "FFlagAdServiceEnabled": false,
   "FFlagEnableTelemetryProtocol": false,
   "FFlagEnableTelemetryService1": false,
+  "FFlagOpenTelemetryEnabled2": false,
   "FLogAdService": 0,
   "FLogNetwork": 7,
   "FLogRobloxTelemetry": "Error,0"
