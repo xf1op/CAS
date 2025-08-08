@@ -1,15 +1,15 @@
 {
   "FStringDebugShowFlagState": "",
 
-  "DFIntTaskSchedulerTargetFps": "HZ",
+  "DFIntTaskSchedulerTargetFps": "HZ","DFIntDebugDynamicRenderKiloPixels": "YouGotEmPixels?",
   "DFIntRuntimeConcurrency": "PCOUNT",
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
+  "FIntLuaGcParallelMinMultiTasks": "-PCOUNT2",
 
   "DFIntLuaGcBoost": 2,
   "DFIntLuaGcMaxKb": 4000,
   "DFIntLuauGcStepMul": 100,
   "DFIntLuauGcStepSizeKb": 5,
-  "FIntLuaGcParallelMinMultiTasks": "-PCOUNT2",
   "FIntLuauGcGoal": 95,
 
   "DFIntS2PhysicsSenderRate": 256,
