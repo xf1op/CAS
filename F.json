@@ -155,8 +155,10 @@
   "DFIntPerformanceControlFrameTimeMaxUtility": -1,
   "FFlagLuaAppLegacyInputSettingRefactor": true,
   "FFlagUserCameraControlLastInputTypeUpdate": false,
+  "FIntActivatedCountTimerMSGamepad": 0,
   "FIntActivatedCountTimerMSKeyboard": 0,
   "FIntActivatedCountTimerMSMouse": 0,
+  "FIntActivatedCountTimerMSTouch": 0,
   "FIntCLI20390_2": 1,
 
   "DFFlagAlwaysSkipDiskCache": false,
