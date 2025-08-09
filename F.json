@@ -6,12 +6,12 @@
   "DFIntTaskSchedulerTargetFps": "HZ",
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
 
-  "DFIntLuaGcBoost": 3,
-  "DFIntLuaGcMaxKb": 195,
+  "DFIntLuaGcBoost": 2,
+  "DFIntLuaGcMaxKb": 185,
   "DFIntLuauGcStepMul": 100,
   "DFIntLuauGcStepSizeKb": 7,
   "FIntLuaGcParallelMinMultiTasks": 1,
-  "FIntLuauGcGoal": 95,
+  "FIntLuauGcGoal": 85,
   "FIntLuauGcGoalCore": 100,
 
   "DFIntS2PhysicsSenderRate": 256,
