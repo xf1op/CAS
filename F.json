@@ -7,7 +7,7 @@
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
 
   "DFIntLuaGcBoost": 2,
-  "DFIntLuaGcMaxKb": 200,
+  "DFIntLuaGcMaxKb": 195,
   "DFIntLuauGcStepMul": 100,
   "DFIntLuauGcStepSizeKb": 7,
   "FIntLuaGcParallelMinMultiTasks": 1,
