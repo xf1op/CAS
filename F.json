@@ -97,9 +97,11 @@
   "FIntMininumRequiredMemoryInMB": 0,
 
   "CaptureCountersIntervalInMinutes": 0,
+  "DFFlagAndroidReportPeakRSS": false,
   "FFlagAlwaysShowVRToggleV3": false,
   "FFlagClearCachedChannelOnLaunch": true,
   "FFlagDisableFeedbackSoothsayerCheck": false,
+  "FFlagEnableAndroidLandingLatency": false,
   "FFlagEnableAndroidVsync": false,
   "FFlagEnableSongbirdInChrome2": false,
   "FFlagResetCacheOnLeaveGame": true,
