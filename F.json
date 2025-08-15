@@ -54,6 +54,7 @@
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagRenderCBRefactor2": true,
   "FFlagRenderUnifiedLighting16": false,
+  "FFlagRenderUnifiedLightingNew": false,
   "FFlagUserRaycastPerformanceImprovements": true,
   "FIntBloomFrmCutoff": 22,
   "FIntDebugForceMSAASamples": 0,
