@@ -103,15 +103,17 @@
   "FIntDefaultMeshCacheSizeMB": 64,
   "FIntMininumRequiredMemoryInGB": 0,
   "FIntMininumRequiredMemoryInMB": 0,
-
+  
   "CaptureCountersIntervalInMinutes": 0,
   "DFFlagAndroidReportPeakRSS": false,
+  "DFFlagReduceCPUWhenBG": true,
   "FFlagAlwaysShowVRToggleV3": false,
   "FFlagClearCachedChannelOnLaunch": true,
   "FFlagDisableFeedbackSoothsayerCheck": false,
   "FFlagEnableAndroidLandingLatency": false,
   "FFlagEnableAndroidVsync": false,
   "FFlagEnableSongbirdInChrome2": false,
+  "FFlagLuaMenuPerfImprovements": true,
   "FFlagResetCacheOnLeaveGame": true,
   "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
   "FFlagVoiceBetaBadge": false,
