@@ -132,7 +132,7 @@
   "DFIntDataSenderMaxBandwidthBpsMultiplier": 60,
   "DFIntMaxProcessPacketsJobScaling": 500000,
   "DFIntMaxProcessPacketsStepsAccumulated": 7,
-  "DFIntMaxProcessPacketsStepsPerCyclic": 2000,
+  "DFIntMaxProcessPacketsStepsPerCyclic": 10000,
   "DFIntMaxWaitTimeBeforeForcePacketProcessMS": 1,
   "DFIntNetworkQualityResponderMaxWaitTime": 1,
   "DFIntNetworkStopProducingPacketsToProcessThresholdMs": 0,
