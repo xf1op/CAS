@@ -27,6 +27,10 @@
 
   "DFIntS2PhysicsSenderRate": 256,
 
+  "DFFlagSimOptimizeSetSize": true,
+  "FFlagSimDcdEnableLAR3": true,
+  "FFlagSimDcdRefactorDelta3": true,
+
   "DFIntVoiceChatRollOffMaxDistance": 120,
   "DFIntVoiceChatVolumeThousandths": 1250,
   
@@ -34,7 +38,6 @@
   "DFFlagRenderBloomMakeResolutionIndependent": false,
   "DFFlagRenderBlurMakeResolutionIndependent": false,
   "DFFlagRenderSunRaysMakeResolutionIndependent": false,
-  "DFFlagSimOptimizeSetSize": true,
   "DFIntCSGLevelOfDetailSwitchingDistance": 80,
   "DFIntCSGLevelOfDetailSwitchingDistanceL12": 80,
   "DFIntCSGLevelOfDetailSwitchingDistanceL23": 80,
@@ -128,12 +131,14 @@
   "DFIntClientPacketMinMicroseconds": 1000,
   "DFIntCodecMaxIncomingPackets": 10000,
   "DFIntConnectionMTUSize": 1396,
-  "DFIntDataSenderMaxBandwidthBpsMultiplier": 60,
+  "DFIntDataSenderRate": "HZ",
+  "DFIntDataSenderMaxBandwidthBpsMultiplier": "HZ",
   "DFIntMaxProcessPacketsJobScaling": 500000,
   "DFIntMaxProcessPacketsStepsAccumulated": 0,
   "DFIntMaxProcessPacketsStepsPerCyclic": 10000,
   "DFIntMaxWaitTimeBeforeForcePacketProcessMS": 1,
   "DFIntNetworkQualityResponderMaxWaitTime": 1,
+  "DFIntNetworkSchemaCompressionRatio": 50,
   "DFIntNetworkStopProducingPacketsToProcessThresholdMs": 0,
   "DFIntRakNetApplicationFeedbackInitialSpeedBPS": 0,
   "DFIntRakNetApplicationFeedbackMaxSpeedBPS": 0,
@@ -144,6 +149,7 @@
   "DFIntRakNetMtuValue3InBytes": 1396,
   "DFIntRakNetResendRttMultiple": 1,
   "DFIntRakNetSelectTimeoutMs": 1,
+  "DFIntTimeBetweenSendConnectionAttemptsMS": 100,
   "DFIntTrackerDataSenderMaxBandwidthBps": 0,
   
   "FFlagGlobalSettingsEngineModule3": false,
@@ -162,6 +168,7 @@
 
   "DFIntMaxFrameBufferSize": 6,
   "DFIntMaxFramesToSend": 0,
+  "DFIntNumFramesAllowedToBeAboveError": 0,
   "DFIntPerformanceControlFrameTimeMax": 1,
   "DFIntPerformanceControlFrameTimeMaxUtility": -1,
   "FFlagLuaAppLegacyInputSettingRefactor": true,
