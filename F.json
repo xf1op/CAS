@@ -13,7 +13,7 @@
   "FIntGraphicsTextureReductionD3D11": 2147483647,
   "FIntRenderDx11LowEndCoreCount": "PCOUNT2",
   "FIntRenderDx11LowEndCPUMemoryMB": 512,
-  
+
   "DFFlagFixStyleBaseNullPointerCrash": true,
   "DFFlagOptimizeNoCollisionPrimitiveInMidphaseCrash": true,
   
@@ -26,8 +26,6 @@
   "FIntLuauGcGoalCore": 100,
 
   "DFIntS2PhysicsSenderRate": 256,
-  "FFlagHumanoidStateUseRuntimeSyncPrims": true,
-  "FFlagKeyframeSequenceUseRuntimeSyncPrims": true,
 
   "DFIntVoiceChatRollOffMaxDistance": 120,
   "DFIntVoiceChatVolumeThousandths": 1250,
@@ -74,8 +72,6 @@
   "FIntUnifiedLightingBlendZone": 0,
 
   "DFIntGraphicsOptimizationModeFRMFrameRateTarget": 2147483647,
-  "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": 1,
-  "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": 0,
   "FStringIXPGraphicsOptimizationModeBalancedBias": "performanceBias",
   "FStringIXPGraphicsOptimizationModePerformanceBias": "performanceBias",
   "FStringIXPGraphicsOptimizationModeQualityBias": "performanceBias",
@@ -83,10 +79,10 @@
   "DFIntCanHideGuiGroupId": 34295829,
   "FFlagUserShowGuiHideToggles": true,
 
-  "DFIntHttpCacheCleanDownToTotalSpaceMiB": 1536,
-  "DFIntHttpCacheCleanMaxFilesToKeep": 10000,
-  "DFIntHttpCacheCleanMinFilesRequired": 12500,
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": 2048,
+  "DFIntHttpCacheCleanDownToTotalSpaceMiB": 2048,
+  "DFIntHttpCacheCleanMaxFilesToKeep": 12500,
+  "DFIntHttpCacheCleanMinFilesRequired": 15000,
+  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": 2560,
 
   "DFIntMemCacheMaxCapacityMB": 64,
   "DFIntMemoryUtilityCurveBaseHundrethsPercent": 0,
@@ -192,11 +188,11 @@
   "FFlagLuaAppGamesPagePreloadingDisabled": true,
   "FFlagPreloadMinimalFonts": false,
   
-  "FIntNewDevConsoleMaxGraphCount": 0,
   "FIntNewDevConsoleMaxHttpCount": 0,
   "FIntNewDevConsoleMaxLogCount": 0,
   
   "DFFlagDebugDisableTelemetryAfterTest": true,
+  "DFFlagDisableFastLogTelemetry": true,
   "DFIntMaxLogHistory": 0,
   "DFStringHttpPointsReporterUrl": "0.0.0.0",
   "DFStringTelemetryV2Url": "0.0.0.0",
@@ -207,5 +203,5 @@
   "FFlagOpenTelemetryEnabled2": false,
   "FLogAdService": 0,
   "FLogNetwork": 7,
-  "FLogRobloxTelemetry": "Error,0"
+  "FLogRobloxTelemetry": 0
 }
