@@ -209,6 +209,10 @@
   "FFlagEnableTelemetryService1": false,
   "FFlagOpenTelemetryEnabled2": false,
   "FLogAdService": 0,
+  "FLogError": 0,
+  "FLogGraphicsTextureReductionD3D11": 0,
   "FLogNetwork": 7,
-  "FLogRobloxTelemetry": 0
+  "FLogOutput": 6,
+  "FLogRobloxTelemetry": 0,
+  "FLogWarning": 0
 }
