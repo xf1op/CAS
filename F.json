@@ -131,7 +131,6 @@
   "DFIntClientPacketMinMicroseconds": 1000,
   "DFIntCodecMaxIncomingPackets": 10000,
   "DFIntConnectionMTUSize": 1396,
-  "DFIntDataSenderRate": "HZ",
   "DFIntDataSenderMaxBandwidthBpsMultiplier": "HZ",
   "DFIntMaxProcessPacketsJobScaling": 500000,
   "DFIntMaxProcessPacketsStepsAccumulated": 0,
