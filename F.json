@@ -9,7 +9,7 @@
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
   "DFIntRuntimeConcurrency": "PCOUNT",
 
-  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "PCOUNT2",
+  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "PCOUNT3",
   "FIntRenderDx11LowEndCoreCount": "PCOUNT2",
 
   "FFlagDebugGraphicsPreferD3D11": true,
