@@ -6,11 +6,10 @@
   "DFIntDataSenderMaxBandwidthBpsMultiplier": "HZ",
   "DFIntTaskSchedulerTargetFps": "HZ",
 
-  "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
-  "DFIntRuntimeConcurrency": "PCOUNT",
-
-  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "PCOUNT3",
-  "FIntRenderDx11LowEndCoreCount": "PCOUNT2",
+  "FIntTaskSchedulerAutoThreadLimit": "PCount",
+  "DFIntRuntimeConcurrency": "PCM1",
+  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "CCM1",
+  "FIntRenderDx11LowEndCoreCount": "CCount",
 
   "FFlagDebugGraphicsPreferD3D11": true,
   "FFlagDisableHQShadersLowEndDx112": true,
