@@ -3,13 +3,13 @@
 
   "DFIntDebugDynamicRenderKiloPixels": "PxCount",
 
+  "DFIntDataSenderMaxBandwidthBpsMultiplier": "HZ",
   "DFIntTaskSchedulerTargetFps": "HZ",
 
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
   "DFIntRuntimeConcurrency": "PCOUNT",
 
   "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "PCOUNT2",
-  "DFIntDataSenderMaxBandwidthBpsMultiplier": "PCOUNT2",
   "FIntRenderDx11LowEndCoreCount": "PCOUNT2",
 
   "FFlagDebugGraphicsPreferD3D11": true,
