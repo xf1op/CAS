@@ -2,16 +2,21 @@
   "FStringDebugShowFlagState": "",
 
   "DFIntDebugDynamicRenderKiloPixels": "PxCount",
-  "DFIntRuntimeConcurrency": "PCOUNT",
+
   "DFIntTaskSchedulerTargetFps": "HZ",
+
   "FIntTaskSchedulerAutoThreadLimit": "PCOUNT",
+  "DFIntRuntimeConcurrency": "PCOUNT",
+
+  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "PCOUNT2",
+  "DFIntDataSenderMaxBandwidthBpsMultiplier": "PCOUNT2",
+  "FIntRenderDx11LowEndCoreCount": "PCOUNT2",
 
   "FFlagDebugGraphicsPreferD3D11": true,
   "FFlagDisableHQShadersLowEndDx112": true,
   "FFlagRenderEnableGlobalInstancingD3D10": true,
   "FFlagRenderEnableGlobalInstancingVulkan": true,
   "FIntGraphicsTextureReductionD3D11": 2147483647,
-  "FIntRenderDx11LowEndCoreCount": "PCOUNT2",
   "FIntRenderDx11LowEndCPUMemoryMB": 512,
 
   "DFFlagFixStyleBaseNullPointerCrash": true,
@@ -75,7 +80,6 @@
 
   "DFIntGraphicsOptimizationModeFRMFrameRateTarget": 2147483647,
   "FStringIXPGraphicsOptimizationModeBalancedBias": "performanceBias",
-  "FStringIXPGraphicsOptimizationModePerformanceBias": "performanceBias",
   "FStringIXPGraphicsOptimizationModeQualityBias": "performanceBias",
 
   "DFIntCanHideGuiGroupId": 34295829,
@@ -128,7 +132,6 @@
   "DFIntClientPacketMinMicroseconds": 1000,
   "DFIntCodecMaxIncomingPackets": 1000,
   "DFIntConnectionMTUSize": 1396,
-  "DFIntDataSenderMaxBandwidthBpsMultiplier": "HZ",
   "DFIntMaxProcessPacketsJobScaling": 500000,
   "DFIntMaxProcessPacketsStepsAccumulated": 0,
   "DFIntMaxProcessPacketsStepsPerCyclic": 8000,
@@ -192,37 +195,19 @@
   "FFlagPreloadMinimalFonts": false,
   "FStringGetPlayerImageDefaultTimeout": "1",
   
-  "FIntNewDevConsoleMaxHttpCount": 0,
+  "FIntNewDevConsoleMaxHtt11": 0,
   "FIntNewDevConsoleMaxLogCount": 0,
   
   "DFFlagDebugDisableTelemetryAfterTest": true,
   "DFFlagDisableFastLogTelemetry": true,
-  "DFFlagVoiceChatCullingRecordEventIngestTelemetry": false,
-  "DFFlagVoiceChatJoinProfilingUsingTelemetryStat_RCC": false,
   "DFIntMaxLogHistory": 0,
-  "DFIntVoiceChatTaskStatsTelemetryThrottleHundrethsPercent": 0,
   "DFStringHttpPointsReporterUrl": "0.0.0.0",
   "DFStringTelemetryV2Url": "0.0.0.0",
   "FFlagAddDMLogging": false,
   "FFlagAdServiceEnabled": false,
-  "FFlagEnableLuaVoiceChatAnalyticsV2": false,
   "FFlagEnableTelemetryProtocol": false,
   "FFlagEnableTelemetryService1": false,
-  "FFlagLuaVoiceChatAnalyticsBanMessage": false,
-  "FFlagLuaVoiceChatAnalyticsUseCounterV2": false,
-  "FFlagLuaVoiceChatAnalyticsUseEventsV2": false,
-  "FFlagLuaVoiceChatAnalyticsUsePointsV2": false,
   "FFlagOpenTelemetryEnabled2": false,
-  "FFlagVoiceChatCullingEnableMutedSubsTelemetry": false,
-  "FFlagVoiceChatCullingEnableStaleSubsTelemetry": false,
-  "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry3": false,
-  "FFlagVoiceChatCustomAudioMixerEnableUpdateSourcesTelemetry2": false,
-  "FFlagVoiceChatDontSendTelemetryForPubIceTrickle": true,
-  "FFlagVoiceChatPeerConnectionTelemetryDetails": false,
-  "FFlagVoiceChatRobloxAudioDeviceUpdateRecordedBufferTelemetryEnabled": false,
-  "FFlagVoiceChatSubscriptionsDroppedTelemetry": false,
-  "FIntLuaVoiceChatAnalyticsPointsThrottle": 0,
-  "FIntVoiceChatPerfSensitiveTelemetryIntervalSeconds": -1,
   "FLogNetwork": 7,
   "FLogRobloxTelemetry": 0
 }
