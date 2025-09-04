@@ -3,11 +3,11 @@
 
   "DFIntDataSenderMaxBandwidthBpsMultiplier": "YourScreenHz",
   "DFIntDebugDynamicRenderKiloPixels": "720pPxCount",
-  "DFIntRuntimeConcurrency": "YourProcessorCountMinusOne",
+  "DFIntRuntimeConcurrency": "YourPCM1",
   "DFIntTaskSchedulerTargetFps": "YourScreenHz",
-  "FIntRenderDx11LowEndCoreCount": "YourCoreCount",
-  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "YourCoreCountMinusOne",
-  "FIntTaskSchedulerAutoThreadLimit": "YourProcessorCount",
+  "FIntRenderDx11LowEndCoreCount": "YourCCount",
+  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "YourCCM1",
+  "FIntTaskSchedulerAutoThreadLimit": "YourPCount",
 
   "FFlagDebugGraphicsPreferD3D11": true,
   "FFlagDisableHQShadersLowEndDx112": true,
