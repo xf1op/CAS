@@ -1,13 +1,13 @@
 {
   "FStringDebugShowFlagState": "",
 
-  "DFIntDebugDynamicRenderKiloPixels": "PxCount",
-
-  "DFIntRuntimeConcurrency": "PCM1",
-  "DFIntTaskSchedulerTargetFps": "HZ",
-  "FIntRenderDx11LowEndCoreCount": "CCount",
-  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "CCM1",
-  "FIntTaskSchedulerAutoThreadLimit": "PCount",
+  "DFIntDataSenderMaxBandwidthBpsMultiplier": "YourScreenHz",
+  "DFIntDebugDynamicRenderKiloPixels": "720pPxCount",
+  "DFIntRuntimeConcurrency": "YourProcessorCountMinusOne",
+  "DFIntTaskSchedulerTargetFps": "YourScreenHz",
+  "FIntRenderDx11LowEndCoreCount": "YourCoreCount",
+  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "YourCoreCountMinusOne",
+  "FIntTaskSchedulerAutoThreadLimit": "YourProcessorCount",
 
   "FFlagDebugGraphicsPreferD3D11": true,
   "FFlagDisableHQShadersLowEndDx112": true,
@@ -106,7 +106,6 @@
   "DFIntClientPacketMinMicroseconds": 1000,
   "DFIntCodecMaxIncomingPackets": 1000,
   "DFIntConnectionMTUSize": 1396,
-  "DFIntDataSenderMaxBandwidthBpsMultiplier": "HZ",
   "DFIntMaxProcessPacketsJobScaling": 500000,
   "DFIntMaxProcessPacketsStepsAccumulated": 0,
   "DFIntMaxProcessPacketsStepsPerCyclic": 8000,
