@@ -8,10 +8,8 @@
   "FIntRenderDx11LowEndCoreCount": "YourCCount",
   "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "YourCCM1",
   "FIntTaskSchedulerAutoThreadLimit": "YourPCount",
-
   "FFlagDebugGraphicsPreferD3D11": true,
   "FFlagDisableHQShadersLowEndDx112": true,
-  "FIntGraphicsTextureReductionD3D11": 2147483647,
 
   "DFFlagSimOptimizeSetSize": true,
   "DFIntS2PhysicsSenderRate": 256,
@@ -155,7 +153,6 @@
 
   "DFFlagAlwaysSkipDiskCache": false,
   "DFFlagEnableMeshPreloading2": false,
-  "DFIntAssetPreloading": 2147483647,
   "DFIntCachedPatchLoadDelayMilliseconds": 1,
   "DFIntNumAssetsMaxToPreload": 2147483647,
   "FFlagLuaAppGamesPagePreloadingDisabled": true,
@@ -176,7 +173,7 @@
   "DFFlagAddPlaySessionIdTelemetry": false,
   "DFFlagDisableFastLogTelemetry": true,
   "DFIntMaxLogHistory": 0,
-  "DFIntPerformanceTelemetryGlobalThrottleHundredthsPercent": 0,
+  "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": 0,
   "DFIntTelemetryRateLimiterBurstSizeHundredths": 0,
   "DFIntTelemetryRateLimiterRegenRateHundredths": 0,
   "DFStringAltHttpPointsReporterUrl": "about:blank",
@@ -193,8 +190,8 @@
   "FFlagEnableTelemetryServiceMemoryCPUInfo": false,
   "FFlagEnableTelemetryServicePlaySessionInfo": false,
   "FFlagOpenTelemetryEnabled2": false,
-  "FFlagRobloxTelemetryAddDeviceRAM": false,
-  "FFlagRobloxTelemetryAddOsVersionAsTag": false,
-  "FFlagRobloxTelemetryAddOTAVersionAsTag": false,
+  "DFFlagRobloxTelemetryAddDeviceRAM": false,
+  "DFFlagRobloxTelemetryAddOsVersionAsTag": false,
+  "DFFlagRobloxTelemetryAddOTAVersionAsTag": false,
   "FStringOpenTelemetryOtlpEndpoint": "about:blank"
 }
