@@ -1,0 +1,12 @@
+{
+  "DFIntDataSenderMaxBandwidthBpsMultiplier": "YourScreenHz",
+  "DFIntDebugDynamicRenderKiloPixels": "720pPxCount",
+  "DFIntRuntimeConcurrency": "YourPCM1",
+  "DFIntTaskSchedulerTargetFps": "YourScreenHz",
+  "FIntRenderDx11LowEndCoreCount": "YourCCount",
+  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "YourCCM1",
+  "FIntTaskSchedulerAutoThreadLimit": "YourPCount",
+
+  "DFIntTrackCountryRegionAPIHundredthsPercent": 0,
+  "privated": "ForSomeTime"
+}
