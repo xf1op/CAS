@@ -7,6 +7,10 @@
   
   "DFFlagOptimizeNoCollisionPrimitiveInMidphaseCrash": true,
 
+  "FIntReadLockSpinLockBudgetUSec": "225",
+  "FIntWriteLockSpinLockBudgetUSec": "225",
+  "DFIntSpinMutexAttemptsBeforeYield": 16,
+
   "DFIntDataSenderMaxBandwidthBpsMultiplier": "144",
   "DFIntDebugDynamicRenderKiloPixels": "720pPxCount",
   "DFIntRuntimeConcurrency": "11",
